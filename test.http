@@ -1,0 +1,3 @@
+GET /repos/CamerAllan/BookingGo-Technical-Challenge-2018/commits
+Host: api.github.com
+Accept: application/vnd.github.v3+json
